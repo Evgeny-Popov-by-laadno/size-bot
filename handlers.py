@@ -1,5 +1,5 @@
-from bot.keyboards import get_main_menu
-from bot.utils import calculate_size
+from keyboards import get_main_menu
+from utils import calculate_size
 
 user_data = {}
 
