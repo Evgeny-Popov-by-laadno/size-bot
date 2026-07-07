@@ -1,5 +1,5 @@
 import telebot
-from bot.handlers import register_handlers
+from handlers import register_handlers
 import os
 from dotenv import load_dotenv
 
